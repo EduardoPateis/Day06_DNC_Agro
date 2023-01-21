@@ -1,3 +1,5 @@
 # Day06_DNC_Agro
 Desenvolvimento da Landing Page DNC Agro
-Desenvolvimento Inicial
+Desenvolvimento Inicial - 
+Usando o Bootstrap - 
+
